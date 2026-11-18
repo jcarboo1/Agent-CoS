@@ -18,10 +18,18 @@ action plan template. NESO removed from the parent pitch.
 6. Mon 23 Nov: book a test call to check the link works.
 7. Tue 24 Nov: list ten parents with children at sixth form or
    university. Do not message them yet.
-8. BLOCKED on consent: message the ten parents with the call to action.
-9. BLOCKED on consent: run the first consultations (target: five).
-10. After five: gather feedback and testimonials, then decide pricing.
-11. Optional, later: business name; free "Be Interesting, Be
+8. Wed 25 Nov: apply online for a basic DBS check (gov.uk). It can
+   take a couple of weeks, so start early.
+9. Thu 26 Nov: get quotes for professional indemnity and public
+   liability insurance.
+10. Fri 27 Nov: write a one-page safeguarding policy for working
+    with under 18s (parent present or aware, no private messaging
+    with students, what to do if a concern comes up).
+11. BLOCKED on consent: message the ten parents with the call to action.
+12. BLOCKED on consent, DBS and insurance: run the first
+    consultations (target: five).
+13. After five: gather feedback and testimonials, then decide pricing.
+14. Optional, later: business name; free "Be Interesting, Be
     Interested" guide as a lead magnet.
 
 # Weekly number
