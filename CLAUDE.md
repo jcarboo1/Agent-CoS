@@ -46,6 +46,6 @@ Standing check: if building the system is replacing selling, say so.
 - End every session by updating context/log.md with done and next.
 
 # Current priority
-1. Get written consent from NESO (email to Molly).
+1. Get written consent from NESO (talk to Molly, confirm by email).
 2. Then land five test clients at £179 through local, low-key
    marketing in Cheltenham and Gloucester.
