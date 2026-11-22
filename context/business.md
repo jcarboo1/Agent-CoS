@@ -2,8 +2,9 @@
 A £179, 45-minute consultation for A level and university students,
 sold mainly to parents. Each client gets a one-page action plan.
 A subscription may come later. (An earlier plan used £50.)
-Goal: five test clients, then feedback and testimonials, then
-review pricing.
+Goal: five test clients by 31 January 2027, then feedback and
+testimonials, then review pricing. A three session £249 package was
+considered on 22 Nov and parked (see brief.md).
 
 # Pitch to parents
 "Your child is one of thousands of applicants for every graduate
