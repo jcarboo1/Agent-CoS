@@ -7,13 +7,16 @@ testimonials, then review pricing. A three session £249 package was
 considered on 22 Nov and parked (see brief.md).
 
 # Pitch to parents
-"Your child is one of thousands of applicants for every graduate
-scheme. I've sat on the hiring side at major employers, and I know
-what gets candidates through. I'll help your son or daughter stand
-out, so their colour comes through the paper."
+"Employers now receive around 140 applications for every graduate
+job, and the best apprenticeships are just as competitive. I've sat
+on the hiring side at major employers, and I know what gets
+candidates through. I help your son or daughter work out what they
+want, then show them how employers judge it, so their colour comes
+through the paper."
+(Check the latest ISE figure and its year before anything is printed.)
 
 # Call to action
-"I'm taking on just five families this autumn. Book your slot
+"I'm taking on just five families this winter. Book your slot
 before they go."
 
 # Framework: Be interesting, be interested
