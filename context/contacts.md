@@ -13,3 +13,16 @@ Employers: Rothesay Life, Cube Technology.
 For each: get written permission to publish, and ask whether the
 company may be named. Present apprentice quotes as people Jason
 supported in his employer roles, not as paying coaching clients.
+
+# First ten parents (started 25 Nov 2026, five of ten so far)
+Warm contacts for the first outreach. Names only until consent is
+saved in writing and Jason says go. Check none is from the school
+where Jason is a governor, none is linked to NESO, and none has a
+child applying to NESO.
+1. Merci: teenager. Stage to confirm.
+2. Mina: teenager. Stage to confirm.
+3. Kriston: teenager. Stage to confirm.
+4. Linda: teenager. Stage to confirm.
+5. Paul: teenager. Stage to confirm.
+(One of the five has a child in first year at university. Which?)
+6 to 10: still to find.
