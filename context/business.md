@@ -1,3 +1,6 @@
+# Name
+JC Careers (working name, 25 Nov 2026).
+
 # Offer (MVP)
 A £179, 45-minute consultation for A level and university students,
 sold mainly to parents. Each client gets a one-page action plan.

@@ -9,6 +9,9 @@ can start until NESO gives written consent under clause 3.5 of
 Jason's contract. Check context/log.md for the current status.
 
 ## The business
+Working name: JC Careers (from 25 Nov 2026). Outreach from the
+JC Careers Gmail only.
+
 Jason runs an early careers coaching service for young people moving
 from education into work, alongside a full time job. He has ten
 years' experience on the employer side: QA (apprenticeship provider,
@@ -30,7 +33,9 @@ clients.
 Do not change the price, discount it or add packages without Jason's
 approval. Pricing is reviewed after five clients.
 
-## Goals to end of January 2027
+## Goals
+- Next three weeks (to 16 Dec): five conversations booked with
+  parents. Free work is only the parents' talk and the intro chat.
 - Five test clients at £179 by 31 January 2027.
 - Two testimonials: the cousin placed at L'Oréal, and a young woman
   placed at a finance company. The second carries more weight with
@@ -42,7 +47,6 @@ approval. Pricing is reviewed after five clients.
   Google reviews, notice boards (Sainsbury's, Tesco, the library).
 - No LinkedIn.
 - Never name NESO or reference current work in any material.
-- Do not market through the school where Jason is a governor.
 - Content may draw on patterns from past roles but must never include
   names of colleagues, candidates or interns, internal processes, or
   anything that would let a former employer recognise a specific
@@ -101,3 +105,4 @@ market them yet.
 - Written consent from Molly under clause 3.5 (see log.md).
 - Complete the missing information in this repo (for example,
   Rebecca Fielding's role in contacts.md).
+- Governor item closed: no longer a school governor (25 Nov).

@@ -16,15 +16,25 @@ supported in his employer roles, not as paying coaching clients.
 
 # First ten parents (started 25 Nov 2026, five of ten so far)
 Warm contacts for the first outreach. Names only until consent is
-saved in writing and Jason says go. Check none is from the school
-where Jason is a governor, none is linked to NESO, and none has a
-child applying to NESO.
-1. Merci: teenager. Stage to confirm.
+saved in writing and Jason says go. Check none is linked to NESO or has
+a child applying to NESO.
+1. Merci: teenager. Works at a secondary school: offer a free
+   online parents' careers talk (Zoom or Teams). Stage to confirm.
 2. Mina: child in first year at university. No other links.
 3. Kriston: teenager. Stage to confirm.
 4. Linda: teenager. Stage to confirm.
 5. Paul: teenager. Stage to confirm.
-No links to NESO or the governor school for any of the five.
+No NESO links for any of the five.
 Of the other four, some are at secondary school and one is NEET.
 Work out which is which before messaging.
 6 to 10: still to find.
+
+# Added 25 Nov 2026
+- Hubert: friend, works at a secondary school. Offer a free online
+  parents' careers talk (Zoom or Teams). Message Thu 26 Nov.
+- Maya: text Fri 27 Nov for written permission to publish her
+  testimonial and her decision on naming MUFG.
+- Former NESO contact's husband: works in university careers and
+  wants to move into early careers. PARKED skills swap (Jason
+  coaches him, he helps Jason towards university careers work).
+  One message this week, then no more. Never mention NESO in it.
