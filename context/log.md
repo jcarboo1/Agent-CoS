@@ -10,15 +10,20 @@ action plan template. NESO removed from the parent pitch.
 three session package parked. Target: five test clients by
 31 Jan 2027. Experience confirmed as ten years. Consent email to
 Molly drafted (context/drafts/molly-consent-email.md).
+25 Nov: consent from Molly. Testimonials requested from three
+apprentices (L'Oréal, Land Registry, Rothesay Life) and two
+employers (Rothesay Life, Cube Technology). See contacts.md.
 
 # Consent status
-Not yet requested. Molly off as of 22 Nov.
+25 Nov: Molly has approved (clause 3.5). Confirm the approval is
+in writing and saved before the first outreach message goes out.
 
 # Next (in order, each 10 to 15 minutes)
 1. Mon 23 Nov, before 9am: send the consent email to Molly.
 2. Tue 24 Nov: apply online for a basic DBS check (gov.uk). It can
    take a couple of weeks, so start early.
-3. Wed 25 Nov: chase the cousin's testimonial.
+3. Wed 25 Nov: testimonials requested (done). Chase any not back
+   by Wed 2 Dec.
 4. Thu 26 Nov: follow up with Caroline (no pitch until consent).
 5. Fri 27 Nov: if Molly hasn't replied, ask HR who covers her
    approvals. Also get insurance quotes (professional indemnity
