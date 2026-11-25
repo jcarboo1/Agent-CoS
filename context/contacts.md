@@ -20,9 +20,11 @@ saved in writing and Jason says go. Check none is from the school
 where Jason is a governor, none is linked to NESO, and none has a
 child applying to NESO.
 1. Merci: teenager. Stage to confirm.
-2. Mina: teenager. Stage to confirm.
+2. Mina: child in first year at university. No other links.
 3. Kriston: teenager. Stage to confirm.
 4. Linda: teenager. Stage to confirm.
 5. Paul: teenager. Stage to confirm.
-(One of the five has a child in first year at university. Which?)
+No links to NESO or the governor school for any of the five.
+Of the other four, some are at secondary school and one is NEET.
+Work out which is which before messaging.
 6 to 10: still to find.
