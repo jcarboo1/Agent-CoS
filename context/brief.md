@@ -1,12 +1,12 @@
 # Chief of Staff briefing: early careers coaching
 
-Updated 22 November 2026. Where this file and CLAUDE.md disagree,
+Updated 25 November 2026. Where this file and CLAUDE.md disagree,
 CLAUDE.md wins.
 
 ## Status gate
-Nothing in this brief that involves selling, parents or marketing
-can start until NESO gives written consent under clause 3.5 of
-Jason's contract. Check context/log.md for the current status.
+Molly (NESO) gave consent under clause 3.5 on 25 November 2026.
+Keep it in writing on file. Check context/log.md for the current
+status before planning any selling.
 
 ## The business
 Working name: JC Careers (from 25 Nov 2026). Outreach from the
