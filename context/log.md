@@ -26,30 +26,25 @@ Merci and Hubert to be offered free online talks at their schools.
 in writing and saved before the first outreach message goes out.
 
 # Next (each 10 to 15 minutes, reminder at 8pm)
-1. Wed 25 Nov: set up the JC Careers Gmail.
-2. Thu 26 Nov: verify names, then email Balcarras, Bournside and
-   Pittville about the free parents' talk. WhatsApp Mina (free
-   intro chat), Merci and Hubert (free online talk).
-3. Fri 27 Nov: message Kriston, Linda and Paul. Text Maya for
-   written permission and the MUFG decision.
-4. Sat 28 Nov (proposed): apply for your own basic DBS check plus
-   the Update Service. Still not confirmed as done.
-5. Sun 29 Nov (proposed): get insurance quotes (professional
-   indemnity and public liability).
-6. Mon 30 Nov: build the one page action plan template for the
-   £179 consultation. Claude drafts it first.
-7. Tue 1 Dec (proposed): Calendly with a 45 minute slot, payment
-   method, test call.
-8. Wed 2 Dec (proposed): one page safeguarding policy. Chase
-   testimonials not yet back.
-9. Thu 3 Dec: review the parked channels. Add tutors only if the
-   first wave is quiet.
-10. Phone the schools with no named contact (Fri 27 Nov, if time).
-11. First paid consultations are BLOCKED on DBS and insurance.
-    Intro chats and the free talks are not.
-12. After five clients: feedback, testimonials, then pricing.
-13. Parked: skills swap message (one only), business name logo,
-    free "Be Interesting, Be Interested" guide.
+Reset 28 Nov: Gmail, Thursday and Friday outreach did not happen.
+1. Sat 28 Nov: apply for your own basic DBS check (gov.uk) plus the
+   Update Service. Then WhatsApp Mina (free intro chat), Kriston,
+   Linda, Paul, and Merci and Hubert (free online talk). Text Maya
+   for written permission and the MUFG decision.
+2. Sun 29 Nov: verify the three school names; insurance quotes.
+   Confirm the Gmail address is live.
+3. Mon 30 Nov, before 9am: email Balcarras, Bournside and Pittville
+   about the free parents' talk. Evening: Claude drafts the action
+   plan template, you review.
+4. Tue 1 Dec: Calendly with a 45 minute slot, payment method, test
+   call. Phone schools with no named contact.
+5. Wed 2 Dec: one page safeguarding policy. Chase testimonials.
+6. Thu 3 Dec: review parked channels. Add tutors only if the first
+   wave is quiet. Nudge schools that have not replied.
+7. Thu 10 Dec: phone any school still silent.
+8. First paid consultations are BLOCKED on DBS and insurance.
+   Intro chats and the free talks are not.
+9. After five clients: feedback, testimonials, then pricing.
 
 # Weekly number
 Conversations with parents this week: 0
