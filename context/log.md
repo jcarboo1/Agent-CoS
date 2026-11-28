@@ -26,13 +26,13 @@ Merci and Hubert to be offered free online talks at their schools.
 in writing and saved before the first outreach message goes out.
 
 # Next (each 10 to 15 minutes, reminder at 8pm)
-Reset 28 Nov: Gmail, Thursday and Friday outreach did not happen.
+Reset 28 Nov: Thursday and Friday outreach did not happen.
+Gmail set up 28 Nov (name shown: Coaching early careers).
 1. Sat 28 Nov: apply for your own basic DBS check (gov.uk) plus the
    Update Service. Then WhatsApp Mina (free intro chat), Kriston,
    Linda, Paul, and Merci and Hubert (free online talk). Text Maya
    for written permission and the MUFG decision.
 2. Sun 29 Nov: verify the three school names; insurance quotes.
-   Confirm the Gmail address is live.
 3. Mon 30 Nov, before 9am: email Balcarras, Bournside and Pittville
    about the free parents' talk. Evening: Claude drafts the action
    plan template, you review.
