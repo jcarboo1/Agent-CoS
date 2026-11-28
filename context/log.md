@@ -1,36 +1,50 @@
 # History
 The original plan ran 17 October to 17 November 2026 and stalled.
-Dates reset on 18 November 2026.
+Dates reset on 18 November 2026. Reset again on 22 November: Molly
+was off, so items 1 to 5 lapsed.
 
 # Done
 Parent pitch, call to action, framework, three core messages,
 action plan template. NESO removed from the parent pitch.
+22 Nov: brief.md added. Offer fixed at £179 single consultation;
+three session package parked. Target: five test clients by
+31 Jan 2027. Experience confirmed as ten years. Consent email to
+Molly drafted (context/drafts/molly-consent-email.md).
+25 Nov: consent from Molly. Testimonials requested from three
+apprentices (L'Oréal, Land Registry, Rothesay Life) and two
+employers (Rothesay Life, Cube Technology). See contacts.md.
 
-# Next (in order, each 10 to 15 minutes)
-1. Thu 19 Nov: talk to Molly about consent under clause 3.5, then
-   send a short email the same day confirming what she agreed.
-   Consent counts only once it is in writing. Everything marked
-   BLOCKED waits for that email.
-2. Thu 19 Nov: chase the cousin's testimonial.
-3. Fri 20 Nov: follow up with Caroline (no pitch until consent).
-4. Sat 21 Nov: set up a free Calendly with a 45-minute slot.
-5. Sun 22 Nov: pick a payment method (PayPal or bank transfer).
-6. Mon 23 Nov: book a test call to check the link works.
-7. Tue 24 Nov: list ten parents with children at sixth form or
-   university. Do not message them yet.
-8. Wed 25 Nov: apply online for a basic DBS check (gov.uk). It can
-   take a couple of weeks, so start early.
-9. Thu 26 Nov: get quotes for professional indemnity and public
-   liability insurance.
-10. Fri 27 Nov: write a one-page safeguarding policy for working
-    with under 18s (parent present or aware, no private messaging
-    with students, what to do if a concern comes up).
-11. BLOCKED on consent: message the ten parents with the call to action.
-12. BLOCKED on consent, DBS and insurance: run the first
-    consultations (target: five).
-13. After five: gather feedback and testimonials, then decide pricing.
-14. Optional, later: business name; free "Be Interesting, Be
-    Interested" guide as a lead magnet.
+25 Nov planning session: working name JC Careers with its own
+Gmail; goal is five conversations booked with parents in three
+weeks; no longer a governor (item closed); free work limited to the
+parents' talk and the intro chat; five day plan set (below).
+School research and talk email drafted (see marketing-patch.md).
+Merci and Hubert to be offered free online talks at their schools.
+
+# Consent status
+25 Nov: Molly has approved (clause 3.5). Confirm the approval is
+in writing and saved before the first outreach message goes out.
+
+# Next (each 10 to 15 minutes, reminder at 8pm)
+Reset 28 Nov: Thursday and Friday outreach did not happen.
+Gmail set up 28 Nov. Business name now Coaching Early Careers (site coachingearlycareers.wordpress.com), replacing JC Careers. Flyer A5 and tear off sheet made with a QR code to the site.
+1. Sat 28 Nov: apply for your own basic DBS check (gov.uk) plus the
+   Update Service. Then WhatsApp Mina (free intro chat), Kriston,
+   Linda, Paul, and Merci and Hubert (free online talk). Text Maya
+   for written permission and the MUFG decision.
+2. Sun 29 Nov: verify the three school names; insurance quotes.
+3. Mon 30 Nov, before 9am: email Balcarras, Bournside and Pittville
+   about the free parents' talk. Evening: Claude drafts the action
+   plan template, you review.
+4. Tue 1 Dec: Calendly with a 45 minute slot, payment method, test
+   call. Phone schools with no named contact.
+5. Wed 2 Dec: one page safeguarding policy. Chase testimonials.
+6. Thu 3 Dec: review parked channels. Add tutors only if the first
+   wave is quiet. Nudge schools that have not replied.
+7. Thu 10 Dec: phone any school still silent.
+8. First paid consultations are BLOCKED on DBS and insurance.
+   Intro chats and the free talks are not.
+9. After five clients: feedback, testimonials, then pricing.
 
 # Weekly number
 Conversations with parents this week: 0

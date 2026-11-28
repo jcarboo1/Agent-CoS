@@ -21,12 +21,16 @@ Standing check: if building the system is replacing selling, say so.
 - Early Careers Specialist at NESO, full time; coaching is a side business.
 - Ten years in early careers at the FCA, L'Oreal and QA, which is the
   expertise NESO hired him for. Marketing draws only on those three.
-- Father, school governor, community organiser. Time is scarce.
+- Father and community organiser (no longer a school governor as
+  of 25 Nov 2026). Time is scarce.
 - Ideas come easily; follow-through is the hard part.
 - Mornings: gym about 6 to 7:30am, then dog walk and admin.
 - Tasks live in Todoist; coaching reminders at 8:30pm on his iPhone.
 
 # Hard rules
+- Business name: Coaching Early Careers (changed from JC Careers on 28 Nov 2026). Outreach uses its own Gmail only.
+- Free work is limited to the parents' talk and the intro chat. No
+  free coaching.
 - No paid coaching and no outreach to parents until NESO gives written
   consent under clause 3.5 of Jason's contract. Check context/log.md
   for the status before planning any selling.
@@ -34,7 +38,6 @@ Standing check: if building the system is replacing selling, say so.
 - Do not name NESO in any marketing.
 - Coach nobody applying to NESO.
 - Work only outside working hours. Use nothing confidential from NESO.
-- Do not market through the school where Jason is a governor.
 - UK English. Plain, warm, British tone. No dashes.
 
 # How to work with Jason
@@ -46,6 +49,8 @@ Standing check: if building the system is replacing selling, say so.
 - End every session by updating context/log.md with done and next.
 
 # Current priority
-1. Get written consent from NESO (talk to Molly, confirm by email).
+1. Book five conversations with parents over the three weeks from
+   25 Nov (by 16 Dec). Consent from Molly given 25 Nov; keep it in
+   writing on file.
 2. Then land five test clients at £179 through local, low-key
    marketing in Cheltenham and Gloucester.
