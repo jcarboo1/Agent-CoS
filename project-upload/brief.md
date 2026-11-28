@@ -9,7 +9,7 @@ Keep it in writing on file. Check context/log.md for the current
 status before planning any selling.
 
 ## The business
-Working name: Coaching Early Careers (from 28 Nov 2026, replacing Coaching Early Careers). Outreach from the
+Working name: Coaching Early Careers (from 28 Nov 2026, replacing JC Careers). Outreach from the
 business Gmail only.
 
 Jason runs an early careers coaching service for young people moving
