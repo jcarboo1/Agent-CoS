@@ -28,7 +28,7 @@ Standing check: if building the system is replacing selling, say so.
 - Tasks live in Todoist; coaching reminders at 8:30pm on his iPhone.
 
 # Hard rules
-- Business name: JC Careers. Outreach uses the JC Careers Gmail only.
+- Business name: Coaching Early Careers (changed from Coaching Early Careers on 28 Nov 2026). Outreach uses its own Gmail only.
 - Free work is limited to the parents' talk and the intro chat. No
   free coaching.
 - No paid coaching and no outreach to parents until NESO gives written

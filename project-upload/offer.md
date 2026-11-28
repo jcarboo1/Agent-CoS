@@ -1,5 +1,5 @@
 # Name
-JC Careers (working name, 25 Nov 2026).
+Coaching Early Careers (working name, changed from Coaching Early Careers on 28 Nov 2026).
 
 # Offer (MVP)
 A £179, 45-minute consultation for A level and university students,

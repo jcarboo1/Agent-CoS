@@ -21,7 +21,7 @@ Use a cheap second SIM so the personal number is not displayed.
 "Good grades. Still getting rejected? I've spent years on the other
 side of the table, hiring graduates and apprentices. I know what
 decides who gets the job. Free chat for local parents and students.
-Jason, JC Careers. Call or text: [number]. Book: [link]"
+Jason, Coaching Early Careers. Call or text: [number]. Book: [link]"
 
 ## Facebook parent group posts (parked until 3 Dec)
 - Parents often ask how they can help without nagging. Ask one
