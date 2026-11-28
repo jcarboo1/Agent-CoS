@@ -26,6 +26,13 @@ knowledge and professional experience. I'm now actively upskilling
 with the ambition of progressing into a Service Delivery Manager
 role."
 
+## Status 28 Nov 2026
+- Maya: text drafted, not yet sent (permission and MUFG decision).
+- Abe (former apprentice): will share once back from Thailand.
+  Which employer? To confirm.
+- Oforiwaa (cousin, L'Oréal): chasing.
+- Joel, Cube Technology (employer): asked.
+
 ## Still to arrive
 L'Oréal (the cousin), Land Registry, Rothesay Life (apprentice),
 Rothesay Life (employer), Cube Technology (employer).

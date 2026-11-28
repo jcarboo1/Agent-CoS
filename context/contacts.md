@@ -38,3 +38,6 @@ Work out which is which before messaging.
   wants to move into early careers. PARKED skills swap (Jason
   coaches him, he helps Jason towards university careers work).
   One message this week, then no more. Never mention NESO in it.
+- Abe: former apprentice, testimonial promised after Thailand trip.
+- Oforiwaa: cousin, L'Oréal apprentice, testimonial being chased.
+- Joel: Cube Technology, employer testimonial asked 28 Nov.
