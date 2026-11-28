@@ -1,4 +1,5 @@
 # Name
+Website: http://coachingearlycareers.wordpress.com
 Coaching Early Careers (working name, changed from JC Careers on 28 Nov 2026).
 
 # Offer (MVP)

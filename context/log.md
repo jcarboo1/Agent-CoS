@@ -27,7 +27,7 @@ in writing and saved before the first outreach message goes out.
 
 # Next (each 10 to 15 minutes, reminder at 8pm)
 Reset 28 Nov: Thursday and Friday outreach did not happen.
-Gmail set up 28 Nov. Business name now Coaching Early Careers (site coachingearlycareers.wordpress.com), replacing JC Careers. Flyer A5 and tear off sheet made with a QR code to the site.
+Gmail set up 28 Nov. Business name now Coaching Early Careers (site http://coachingearlycareers.wordpress.com), replacing JC Careers. Flyer A5 and tear off sheet made with a QR code to the site.
 1. Sat 28 Nov: apply for your own basic DBS check (gov.uk) plus the
    Update Service. Then WhatsApp Mina (free intro chat), Kriston,
    Linda, Paul, and Merci and Hubert (free online talk). Text Maya

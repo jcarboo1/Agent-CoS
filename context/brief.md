@@ -9,6 +9,7 @@ Keep it in writing on file. Check context/log.md for the current
 status before planning any selling.
 
 ## The business
+Website: http://coachingearlycareers.wordpress.com (free WordPress site; flyer QR code points here).
 Working name: Coaching Early Careers (from 28 Nov 2026, replacing JC Careers). Outreach from the
 business Gmail only.
 

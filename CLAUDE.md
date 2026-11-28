@@ -29,6 +29,7 @@ Standing check: if building the system is replacing selling, say so.
 
 # Hard rules
 - Business name: Coaching Early Careers (changed from JC Careers on 28 Nov 2026). Outreach uses its own Gmail only.
+  Website: http://coachingearlycareers.wordpress.com
 - Free work is limited to the parents' talk and the intro chat. No
   free coaching.
 - No paid coaching and no outreach to parents until NESO gives written
